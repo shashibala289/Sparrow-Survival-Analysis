@@ -1,5 +1,5 @@
 #set working directory
-setwd("C:\\Users\\choti\\Desktop\\ProjectBAN600")
+setwd("C:\\Users\\shashi\\Desktop\\ProjectBAN600")
 
 
 #read the desired file
